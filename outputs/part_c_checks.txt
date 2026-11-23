@@ -1,0 +1,5 @@
+=== SANITY & RULE VERIFICATION CHECKS ===
+[PASS] Wall & boundary stay-in-place: wall->(1, 0) (rew -1.0), edge->(0, 1) (rew -3.0)
+[PASS] Ice transition probabilities sum to 1.0 for all 4 actions.
+[PASS] Floor rewards verified: Mud=-3, Sand=-2, Shallow Water=-5.
+[PASS] Zero rewards and self-loop after Goal/Hole termination.

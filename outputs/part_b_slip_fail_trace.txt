@@ -1,0 +1,54 @@
+Initial state: 0
+
+[41mS[0mFFF
+FHFH
+FFFH
+HFFG
+
+
+Step 1, Action: 1, New State: 0, Reward: 0
+  (Down)
+[41mS[0mFFF
+FHFH
+FFFH
+HFFG
+
+
+Step 2, Action: 1, New State: 0, Reward: 0
+  (Down)
+[41mS[0mFFF
+FHFH
+FFFH
+HFFG
+
+
+Step 3, Action: 1, New State: 0, Reward: 0
+  (Down)
+[41mS[0mFFF
+FHFH
+FFFH
+HFFG
+
+
+Step 4, Action: 1, New State: 4, Reward: 0
+  (Down)
+SFFF
+[41mF[0mHFH
+FFFH
+HFFG
+
+
+Step 5, Action: 1, New State: 8, Reward: 0
+  (Down)
+SFFF
+FHFH
+[41mF[0mFFH
+HFFG
+
+
+Step 6, Action: 2, New State: 12, Reward: 0
+  (Right)
+SFFF
+FHFH
+FFFH
+[41mH[0mFFG
